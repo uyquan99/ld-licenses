@@ -35,6 +35,12 @@
       "enabled": true,
       "updated": "2026-09-04T06:51:50.672227+07:00",
       "sig": "kuWLi10SKffN-0r9uQtco3ACVEFX0GRg0PyIrJdxwb8q68YPv0ENOJcYx4KwaLJ66KFRCxgDp5hf982M2EnGAA"
+    },
+    {
+      "machine_id": "LD-EC2F-7E06-9E66-3FA3",
+      "enabled": true,
+      "updated": "2026-09-04T06:52:12.5115546+07:00",
+      "sig": "ougScKADPJkt4RaxPkbx-Hx7J4QbEqxbH2wEwUPP8XTNNmK13PDITjmZEooJ2rstZcQzv8STXPheHWk9DFcICg"
     }
   ]
 }
