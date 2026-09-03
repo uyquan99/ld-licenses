@@ -1,13 +1,15 @@
 {
-  "disabled": [],
+  "disabled": [
+    "LD-1BA2-92B7-44E9-6C82"
+  ],
   "keys": [
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
-      "enabled": true,
+      "enabled": false,
       "note": "test",
       "expiry": "2026-09-06",
       "issued": "2026-09-04",
-      "updated": "2026-09-04T03:35:02+07:00"
+      "updated": "2026-09-04T03:39:09+07:00"
     }
   ]
 }
