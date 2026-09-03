@@ -1,10 +1,10 @@
 {
-  "status": [
+  "keys": [
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
-      "enabled": false,
-      "updated": "2026-09-04T04:40:51.5689092+07:00",
-      "sig": "PalkimvNCxQrHba3aSI7qHCmY2adbLWj8kYqnRe24bECuaR2Ze4MzifKv7VTEgHCHxpGR8dqKzZUOaSUTeQ6DQ"
+      "enabled": true,
+      "updated": "2026-09-04T04:46:26.522243+07:00",
+      "sig": "jNQFvkqXRhURCgkw186DLedsirw93N9dSii61iGdjILXtugGqXAyuNIUIKc5X_Q00epAR-KjD5006wFwM429Ag"
     }
   ]
 }
