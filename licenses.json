@@ -2,9 +2,9 @@
   "status": [
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
-      "enabled": true,
-      "updated": "2026-09-04T04:29:25.6703578+07:00",
-      "sig": "KRMIzHtpn2rSel_nNAm06CBU-1QyPSh24Ppzzsjgm-6zT0nyAuvK5mElx9WQeYXP55nheGca_rR-62lUypg8DQ"
+      "enabled": false,
+      "updated": "2026-09-04T04:29:29.1878238+07:00",
+      "sig": "pxLiKPOPjH6NymYSHAMfLiC0pcFMF5YpMBbkPJNZpN_vRNEEBe0S-rSKeLF7qJ4Kv9S4O9_YS0zGEjcWaCpWCA"
     }
   ]
 }
