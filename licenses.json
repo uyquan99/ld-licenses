@@ -3,9 +3,14 @@
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
       "enabled": false,
-      "note": "owner",
-      "expiry": "2036-09-01",
-      "issued": "2026-09-04",
+      "updated": "2026-09-04T04:10:38+07:00",
+      "sig": "x8uzkrSTuKGcvxaHwxkc_MFJBfTUPp1nLxgaWcyRUnUDNGwTAQIGjksQaqAOKzLWU4w6Qw5B4bFEgrF4SfYxAg"
+    }
+  ],
+  "status": [
+    {
+      "machine_id": "LD-1BA2-92B7-44E9-6C82",
+      "enabled": false,
       "updated": "2026-09-04T04:10:38+07:00",
       "sig": "x8uzkrSTuKGcvxaHwxkc_MFJBfTUPp1nLxgaWcyRUnUDNGwTAQIGjksQaqAOKzLWU4w6Qw5B4bFEgrF4SfYxAg"
     }
