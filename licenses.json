@@ -11,6 +11,12 @@
       "enabled": true,
       "updated": "2026-09-04T06:39:00.1406418+07:00",
       "sig": "fnjnWJCv1ffGgRdzL_-oH34yJuQu1u9OiNEf72DjDDvWDdxsMxv6B0kh_mbOkDywLTm7gxq77GSOf02dtpJfAw"
+    },
+    {
+      "machine_id": "LD-D609-F7AA-B091-175F",
+      "enabled": true,
+      "updated": "2026-09-04T06:44:07.8090226+07:00",
+      "sig": "LwAaA7_dBPHz2qtYbtfG7T06RVxIxcuaZxUElTcG1_U8Ig0uf3dzCLeXKtDP1tY2QHgz-TwWHzKqDn7xmlCvDw"
     }
   ]
 }
