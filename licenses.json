@@ -2,12 +2,12 @@
   "keys": [
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
-      "enabled": true,
+      "enabled": false,
       "note": "owner",
       "expiry": "2036-09-01",
       "issued": "2026-09-04",
-      "updated": "2026-09-04T04:04:18+07:00",
-      "sig": "JyQ5tGaymn6PuYjBxar3LtPPywjFLFBf-qGLBIi8Mgskm71QcWGpi-3EOy18EFAory7ExiL5jKebe1pMpIdGAA"
+      "updated": "2026-09-04T04:08:59+07:00",
+      "sig": "OahbmBTGLJ--2E2BFuxv3CeRR11swBGvN_cQ1dmxSjq519qIsvRXhqu_LrMxzi7fHpZuM_-pYEaCrIq1zuhhBA"
     }
   ]
 }
