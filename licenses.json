@@ -2,9 +2,9 @@
   "keys": [
     {
       "machine_id": "LD-1BA2-92B7-44E9-6C82",
-      "enabled": false,
-      "updated": "2026-09-04T05:07:56.6375533+07:00",
-      "sig": "OL0UbwuWuLTbRMQeIVs4EPXaMuYzWn2iNUgKjhTDG6rSsFKfglz3aCUGiGS33uin_I_k98XjD99upsTbmmJNCw"
+      "enabled": true,
+      "updated": "2026-09-04T05:09:44.1011789+07:00",
+      "sig": "oyX8Ga1-Z7yIEnJ7gjq0gyqiuZiprQDZYYR9bdneK-R7jfGrjsP2IuZEVQhOidRvKcNHDL3ZYaNeMGZGawY7CA"
     }
   ]
 }
