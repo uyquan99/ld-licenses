@@ -1,24 +1,6 @@
 {
   "keys": [
     {
-      "machine_id": "LD-D67B-1FFC-4005-2E61",
-      "enabled": false,
-      "updated": "2026-10-07T13:48:32.126524+07:00",
-      "sig": "YGeIz3xJM4ZOdi-AQVIBUuzoITRTFG5BBt6mGqfdRqQjTIPdI2w2SRHipUD5-7J1ZNx0ojCTZVDf-uUJAP6PBA"
-    },
-    {
-      "machine_id": "LD-7529-32BB-9C63-DF19",
-      "enabled": true,
-      "updated": "2026-10-03T13:41:57.6132624+07:00",
-      "sig": "vZX-7wuzQKpiJVO--5ACUbldPZJEAytNfUb4drKptFQY9pZ-QZZg6WhpjgqNYbRU8daRMB46vg3jRb4jrZFxAA"
-    },
-    {
-      "machine_id": "LD-45E2-7BEA-68CC-48BB",
-      "enabled": true,
-      "updated": "2029-09-04T20:03:17.9776204+07:00",
-      "sig": "GIAOGIGWmx9p7v0mU4I816UikQkc817_XMMbdy5aSEi3A4JjBjdXjTiDE-58Bt6IyKDzMGNTauwe0Rz6KqUPAA"
-    },
-    {
       "machine_id": "LD-BC0A-FCF5-65B4-714A",
       "enabled": false,
       "updated": "2026-10-07T13:49:10.238954+07:00",
@@ -26,9 +8,9 @@
     },
     {
       "machine_id": "LD-B8A0-0FF0-97FE-A773",
-      "enabled": true,
-      "updated": "2029-09-07T09:51:28.4785325+07:00",
-      "sig": "CDEDALdX9knW8Xs6_bSu4H0hIJ-utz2cTB9MCeKKNEsJiIYSAML8-pGlrF4oeMKnS2XqgzrkUsci50y4ruFlAA"
+      "enabled": false,
+      "updated": "2026-10-07T13:49:14.7187452+07:00",
+      "sig": "2MnCmS6eDOlBPrSLprs66GqUhK-_gnKojckRinzWNkG6m9UF8ld8Zg-LNou4sN-fgs_zG-7Awi2YjY6HjBGiDg"
     },
     {
       "machine_id": "LD-4612-BDF5-0536-F470",
@@ -89,6 +71,24 @@
       "enabled": true,
       "updated": "2026-10-03T13:42:23.8442163+07:00",
       "sig": "jHxw3Uhwy5ep55bZWOFyO3vDXnMg7KGhNcm9hBkUT5kbDEleUzNAMfvoHz1uffjyCgwCMUNYtDv-Sov5BBlxDA"
+    },
+    {
+      "machine_id": "LD-D67B-1FFC-4005-2E61",
+      "enabled": false,
+      "updated": "2026-10-07T13:48:32.126524+07:00",
+      "sig": "YGeIz3xJM4ZOdi-AQVIBUuzoITRTFG5BBt6mGqfdRqQjTIPdI2w2SRHipUD5-7J1ZNx0ojCTZVDf-uUJAP6PBA"
+    },
+    {
+      "machine_id": "LD-7529-32BB-9C63-DF19",
+      "enabled": true,
+      "updated": "2026-10-03T13:41:57.6132624+07:00",
+      "sig": "vZX-7wuzQKpiJVO--5ACUbldPZJEAytNfUb4drKptFQY9pZ-QZZg6WhpjgqNYbRU8daRMB46vg3jRb4jrZFxAA"
+    },
+    {
+      "machine_id": "LD-45E2-7BEA-68CC-48BB",
+      "enabled": true,
+      "updated": "2029-09-04T20:03:17.9776204+07:00",
+      "sig": "GIAOGIGWmx9p7v0mU4I816UikQkc817_XMMbdy5aSEi3A4JjBjdXjTiDE-58Bt6IyKDzMGNTauwe0Rz6KqUPAA"
     }
   ]
 }
