@@ -1,12 +1,6 @@
 {
   "keys": [
     {
-      "machine_id": "LD-BC0A-FCF5-65B4-714A",
-      "enabled": false,
-      "updated": "2026-10-07T13:49:10.238954+07:00",
-      "sig": "fr80zi3JI-EV-ahKr4oVwIfcrGNdwXwb_NgPJsDkXX4HuYRk7R2Cr7M12YJKjV2NI-6ebHKw4DcPqxItPGZYCA"
-    },
-    {
       "machine_id": "LD-B8A0-0FF0-97FE-A773",
       "enabled": false,
       "updated": "2026-10-07T13:49:14.7187452+07:00",
@@ -86,9 +80,15 @@
     },
     {
       "machine_id": "LD-45E2-7BEA-68CC-48BB",
-      "enabled": true,
-      "updated": "2029-09-04T20:03:17.9776204+07:00",
-      "sig": "GIAOGIGWmx9p7v0mU4I816UikQkc817_XMMbdy5aSEi3A4JjBjdXjTiDE-58Bt6IyKDzMGNTauwe0Rz6KqUPAA"
+      "enabled": false,
+      "updated": "2026-10-07T13:49:18.2622154+07:00",
+      "sig": "Kc95S7u8MoL_dyLIZYbd-WZZ9Ypyqr--8RNuK_wBfvsBGHbxDbJETv9x8p89j5gS5qlDoBsGdm08d9KVc8MwCw"
+    },
+    {
+      "machine_id": "LD-BC0A-FCF5-65B4-714A",
+      "enabled": false,
+      "updated": "2026-10-07T13:49:10.238954+07:00",
+      "sig": "fr80zi3JI-EV-ahKr4oVwIfcrGNdwXwb_NgPJsDkXX4HuYRk7R2Cr7M12YJKjV2NI-6ebHKw4DcPqxItPGZYCA"
     }
   ]
 }
